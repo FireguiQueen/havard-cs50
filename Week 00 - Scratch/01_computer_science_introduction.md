@@ -8,23 +8,26 @@ Computer science is the field that develops solutions using computational techno
 
 ![input-process-output](https://github.com/FireguiQueen/CS50/assets/98475125/f0285159-3d9c-41ba-9c06-f63f87babd8b)
 
-## Computers Aren't the Only Ones That Follow a Structured Process (Input → Process → Output)
-This way of solving problems actually comes from us—human beings. For example, think about how we have conversations. We receive questions (input), we think about them (process), and then we respond (output).
+## Humans follow the same structured process as computers: input → process → output
+We often think of computers as the only ones that follow a structured pattern to solve problems—but this model actually comes from us, human beings.
 
-Let’s take a simple example:
+Take conversations, for example. When someone asks us a question, we receive it as input. We think about it—that's our brain doing the processing—and then we give an answer: the output.
+
+Here's a simple example:
 - [Your friend]: "Where is your dog?"
 - [You]: "He's in my apartment."
 
-From your friend's point of view, their question is an output—they're sending information out. But for you, it’s an input—you’re receiving that data. Even though it’s a simple question, your brain still goes through a processing step. Sometimes it's so quick, you don’t even notice it. After processing, you come up with an answer, which becomes your output. You then send that output back to your friend.
+From your friend's perspective, the question is an output—they're sending information out. For you, it's an input. Your brain processes the question and quickly finds the answer, which becomes your output, sent back as a response.
+
 
 It’s literally the same structure that computers use:
-
+```
     Input – You receive data (the question).
 
     Process – You think about the data.
 
     Output – You come up with and send the answer.
-
+``` 
 
 
 <!--
