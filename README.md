@@ -3,14 +3,14 @@ CS50 (Computer Science 50) is a comprehensive Computer Science course taught by 
 
 This repository contains my personal notes, based on my understanding of the course. Here, you'll find insights, explanations, and summaries written by me.
 
-## Topics covered
+## 📌 Topics covered
 - Algorithms and data structures
 - Software design principles
 - Cybersecurity concepts
 - Operating systems and computer architecture
 - Introduction to programming using C
 
-## Instructors
+## 🧑‍🏫 Instructors
 David J. Malan - Gordon Mckay Professor of the Practice of Computer Science at Harvard University
 
 Doug Lloyd - Senior Preceptor in Computer Science at Harvard University
@@ -20,7 +20,7 @@ Brian Yu - Senior Preceptor in Computer Science at Harvard University
 
 -------------------
 
-### Useful links
+### 🔗 Useful links
 + https://cs50.harvard.edu/x/2025/syllabus/
 + [view your progress](https://cs50.me/cs50x)
 + [CS50 - Wiki](https://en.wikipedia.org/wiki/CS50)
