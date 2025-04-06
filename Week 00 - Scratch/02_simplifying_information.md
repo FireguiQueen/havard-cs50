@@ -7,13 +7,13 @@ A simple analogy: Imagine two people from different countries having a conversat
 To turn that data into information, one of them needs to use a dictionary or a translation app to interpret the message. Once translated, the data gains context and meaning — and becomes information.
 
 ### As humans, do we receive raw data or processed data (information)?
-From Guilherme Pire’s perspective — AKA my perspective — we receive data, and our brains process that data and transform it into information.
+From Guilherme Pire’s perspective — AKA my perspective — we receive raw data, and our brains process that data and transform it into information.
 
 To illustrate this, imagine we take a human and remove key cognitive functions from their brain. In theory, they’d still be able to see, hear, taste, and experience the world — assuming we didn’t touch the sensory systems. But without the brain's ability to process that input, they wouldn’t be able to truly understand what’s happening. They’d be receiving data, but not forming information — because they’d lack the ability to assign meaning.
 
-Our brain is a powerful piece of hardware, and it runs a kind of software — a set of instructions on how to handle the data we receive, turning it into meaningful information.
+Given that, I think that our brain is a powerful piece of hardware, and it runs a kind of software — a set of instructions on how to handle the data we receive, turning it into meaningful information.
 
-# How do humans process and storage data 
+# How computers proces 
 
 
 
