@@ -28,7 +28,7 @@ So, with a wire, I could send: `1volt - wait a moment - 0volts - wait a moment -
 `ON - OFF - ON`.
 
 Knowing that we have 3 levers and each represent 2 states, how many possibilities do we have? That's simple!
-``
+```
 - OFF  - OFF  - OFF
 - ON   - ON   - ON
 - OFF  - OFF  - ON
