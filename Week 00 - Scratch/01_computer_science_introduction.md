@@ -1,14 +1,22 @@
 # What is science
 In short, science is the pursuit and collection of knowledge — of all kinds.
-> The word **science** comes from the Latin scientia, which means **knowledge** or **understanding**. 
+> The word **science** comes from the Latin "scientia", which means **knowledge** or **understanding**. 
 
 When we're studying life, we call it biology — the science of life. Biology is a life science, focused on understanding how living things work, grow, and interact.
 
 To make this large amount of knowledge concrete, we rely on observation, experimentation, and reasoning. That’s what makes science different from just guessing — it’s based on evidence.
-> When we just say “science” — like in “I love science” — we're usually referring to knowledge about how the universe works. Since you're not specifying a particular branch, we can assume you mean the vast body of knowledge humans have gathered about nature, the cosmos, and everything in between.
+
+## Are software engineers scientists
+- A scientist creates a new material → an engineer uses it to build something.
+- An engineer develops a new tool → a scientist uses it to discover something new.
+And often, the same person does both, cycling between theory and application.
+> But developmenting in general won't make you a scientist unsless you create something new (sorry!).  
 
 # Computer Science
-Computer science is the field that develops solutions using computational technology. Its main goal is to automate the resolution of real-world problems through a structured process, which can be summarized as follows:
+Computer science is a branch of science. When you're studying computer science - AKA CS -, you are studying the large amount of knowledge we have about the computers. This knowledge is composed by several things: algorithms, theory of information, hardware design, software devolopment.
+
+
+that develops solutions using computational technology. Its main goal is to automate the resolution of real-world problems through a structured process, which can be summarized as follows:
 1. Colect data (inputs)
 2. Process the data (using algorithms)
 3. Generate results (outputs)
