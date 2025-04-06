@@ -2,7 +2,9 @@
 
 ----------
 
-# 📊 Difference between "data" and "information"
+# Data
+
+## 📊 Difference between "data" and "information"
 The word "data" refers to raw, unorganized facts, while "information" is data that has been processed, organized, and given context, making it meaningful and useful. 
 
 A simple analogy: Imagine two people from different countries having a conversation. Since they don't speak each other's language, they're essentially exchanging data — sounds or text that lack meaning to the other.
@@ -15,7 +17,38 @@ To illustrate this, imagine we take a human and remove key cognitive functions f
 
 Given that, I think that our brain is a powerful piece of hardware, and it runs a kind of software — a set of instructions on how to handle the data we receive, turning it into meaningful information.
 
-# How do computers manipulate data
+## How do computers manipulate and understand data
+As humans, we can perceive data in a few different ways: by seeing, hearing, touching, and smelling. And all that is thanks to our brain: a really, really smart tool. Whereas to computers input and output data, the only way is by electricity; because of it, it would be enough to call them dumb, but they aren't even alive, so it wouldn't make much sense.
+
+### Computers represent data with electricity? What do you mean? 
+We can try to figure a simple box, with 3 levers (switches) inside of it. Each lever can only represent two states (on/off). 
+Let's also suppose that we can switch between the states with eletrical signal. To switch to 'on' we send 1volt, to keep it 'off' we sent 0volt.
+
+So, with a wire, I could send: `1volt - wait a moment - 0volts - wait a moment - 1volt`. With that order, my levers states, as we already expect, would be: 
+`ON - OFF - ON`.
+
+Knowing that we have 3 levers and each represent 2 states, how many possibilities do we have? That's simple!
+1. OFF - OFF - OFF
+2. ON  - ON  - ON
+   
+3. OFF - OFF - ON
+4. OFF - ON  - ON
+5. OFF - ON  - OFF
+
+6. ON - ON - OFF
+7. ON - OFF - OFF
+8. ON - OFF - ON
+
+   
+
+
+While our brains "storage" data in a really complext pattern, computers storage data in really simple way.  
+
+
+
+
+
+
 
 
 
