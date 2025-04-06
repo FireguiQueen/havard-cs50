@@ -1,4 +1,4 @@
-# What is science
+# 🌌 What is science
 In short, science is the pursuit and collection of knowledge — of all kinds.
 > The word **science** comes from the Latin "scientia", which means **knowledge** or **understanding**. 
 
@@ -13,7 +13,7 @@ To make this large amount of knowledge concrete, we rely on observation, experim
 
 ___________________
 
-# Computer Science
+# 💾 Computer Science
 Computer science is a branch of science. When you're studying computer science - AKA CS -, you are studying the large amount of knowledge we have about the computers. This knowledge is composed by several things: algorithms, theory of information, hardware design, software devolopment.
 
 
