@@ -8,7 +8,7 @@ To make this large amount of knowledge concrete, we rely on observation, experim
 
 ## Are software engineers scientists
 - A scientist creates a new material → an engineer uses it to build something.
-- An engineer develops a new tool → a scientist uses it to discover something new.
+- An engineer develops a new tool → a scientist uses it to discover something new. <br>
 And often, the same person does both, cycling between theory and application.
 > But developmenting in general won't make you a scientist unsless you create something new (sorry!).  
 
