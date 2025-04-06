@@ -11,6 +11,8 @@ To make this large amount of knowledge concrete, we rely on observation, experim
 - An engineer develops a new tool → a scientist uses it to discover something new.
 > Often, the same person does both, cycling between theory and application; however, developing simple things (like web applications or general software) doesn't make you a scientist. You can be a computer science student, but not a computer scientist — unless you're contributing new discoveries to the field.
 
+___________________
+
 # Computer Science
 Computer science is a branch of science. When you're studying computer science - AKA CS -, you are studying the large amount of knowledge we have about the computers. This knowledge is composed by several things: algorithms, theory of information, hardware design, software devolopment.
 
