@@ -1,5 +1,7 @@
 #### Recommended reading: [Computer Science: introduction](https://github.com/FireguiQueen/CS50/blob/main/Week%2000%20-%20Scratch/01_computer_science_introduction.md)
 
+----------
+
 # 📊 Difference between "data" and "information"
 The word "data" refers to raw, unorganized facts, while "information" is data that has been processed, organized, and given context, making it meaningful and useful. 
 
@@ -13,7 +15,8 @@ To illustrate this, imagine we take a human and remove key cognitive functions f
 
 Given that, I think that our brain is a powerful piece of hardware, and it runs a kind of software — a set of instructions on how to handle the data we receive, turning it into meaningful information.
 
-# How computers proces 
+# How do computers manipulate data
+
 
 
 
