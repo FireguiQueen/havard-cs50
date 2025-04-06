@@ -1,6 +1,22 @@
 #### Recommended reading: [Computer Science: introduction](https://github.com/FireguiQueen/CS50/blob/main/Week%2000%20-%20Scratch/01_computer_science_introduction.md)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
 ## Representação de Números
+
 Imagine-se como um professor em sala de aula verificando a presença dos alunos. Para isso, você pode levantar um dedo de cada vez, representando cada pessoa. Esse sistema é chamado de 'sistema unário', onde cada dígito representa uma única unidade. No entanto, a contagem não permite ir muito longe. Somando os dedos erguidos, o máximo possível seria contar até 10 alunos.
 
 Por outro lado, existem outras formas de representar números maiores usando o sistema unário.
@@ -107,7 +123,6 @@ Aprendemos que '1' representa 'ligado' pois na computação, o '1' representa pa
 
 > Na imagem, os números em laranja representam os valores que foram ativados devido à presença de energia.
 ![Valores binarios](https://github.com/FireguiQueen/CC50/assets/98475125/736efe04-d419-4ace-9d14-83132d0a73a4)
-
-
+--> 
 
 
