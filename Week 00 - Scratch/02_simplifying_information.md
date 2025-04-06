@@ -1,7 +1,12 @@
 #### Recommended reading: [Computer Science: introduction](https://github.com/FireguiQueen/CS50/blob/main/Week%2000%20-%20Scratch/01_computer_science_introduction.md)
 
+# 📊 Difference between "data" and "information"
+The word "data" refers to raw, unorganized facts, while "information" is data that has been processed, organized, and given context, making it meaningful and useful. 
 
+A simple analogy: Imagine two people from different countries having a conversation. Since they don't speak each other's language, they're essentially exchanging data — sounds or text that lack meaning to the other.
+To turn that data into information, one of them needs to use a dictionary or a translation app to interpret the message. Once translated, the data gains context and meaning — and becomes information.
 
+# How do humans process and storage data 
 
 
 
