@@ -11,11 +11,9 @@ This repository contains my personal notes, based on my understanding of the cou
 - Introduction to programming using C
 
 ## 🧑‍🏫 Instructors
-David J. Malan - Gordon Mckay Professor of the Practice of Computer Science at Harvard University
-
-Doug Lloyd - Senior Preceptor in Computer Science at Harvard University
-
-Brian Yu - Senior Preceptor in Computer Science at Harvard University
+- David J. Malan - Gordon Mckay Professor of the Practice of Computer Science at Harvard University
+- Doug Lloyd - Senior Preceptor in Computer Science at Harvard University
+- Brian Yu - Senior Preceptor in Computer Science at Harvard University
 
 
 -------------------
