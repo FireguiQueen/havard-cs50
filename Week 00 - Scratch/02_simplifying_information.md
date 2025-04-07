@@ -8,19 +8,21 @@ The word "data" refers to raw, unorganized facts, while "information" is data th
 **A simple analogy:** Imagine two people from different countries having a conversation. Considering they don't speak each other's language, they're essentially exchanging data — sounds or text that lack meaning to the other.
 To turn that data into information, one of them needs to use a dictionary or a translation app to interpret the message. Once translated, the data gains context and meaning — and becomes information.
 
-___ 
+<br> 
 
 ### 🧠 As humans, do we receive raw data or processed data (information)?
-From Guilherme Pire’s perspective — AKA my perspective — we receive raw data, and our brains process that data and transform it into information.
+From Guilherme Pire’s perspective — AKA my perspective — we receive raw data, and our brains process that data and transform it into information. 
 
 To illustrate this, imagine we take a human and remove key cognitive functions from their brain. In theory, they’d still be able to see, hear, taste, and experience the world — assuming we didn’t touch the sensory systems. But without the brain's ability to process that input, they wouldn’t be able to truly understand what’s happening. They’d be receiving data, but not forming information — because they’d lack the ability to assign meaning.
 
-Given that, I think that our brain is a powerful piece of hardware, and it runs a kind of software — a set of instructions on how to handle the data we receive, turning it into meaningful information.
+Given that, I can think about our brains as a powerful hardware, which runs a kind of software — a set of instructions on how to handle the data we receive, turning it into meaningful information.
+
+<br>
 
 ### 🎛️ Computers: do they receive raw data or processed data (information)? 
-In short, data. But to fully understand why, we must understand what's considered "data" for computers. 
+In short answer,**data**. But to fully understand why, we must understand what's considered "data" for computers. 
 
-#### 
+As humans, data is every 
 
 ## How do computers manipulate and understand data
 As humans, we can perceive data in a few different ways: by seeing, hearing, touching, and smelling. And all that is thanks to our brain: a really, really smart tool. Whereas to computers input and output data, the only way is by electricity; because of it, it would be enough to call them dumb, but they aren't even alive, so it wouldn't make much sense.
