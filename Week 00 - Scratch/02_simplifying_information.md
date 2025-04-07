@@ -2,10 +2,6 @@
 
 ----------
 
-# 💡 How Humans and Computers Make Sense of Data
-
-<br>
-
 ## 📊 Difference between "data" and "information"
 The word "data" refers to raw, unorganized facts, while "information" is data that has been processed, organized, and given context, making it meaningful and useful. 
 
