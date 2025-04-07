@@ -38,6 +38,7 @@ ON   - OFF  - OFF
 ON   - OFF  - ON
 ON   - ON   - ON  
 ```
+> Using a bit of math, we could just do 2³, and the result is eight different possbilities. 
 
    
 
