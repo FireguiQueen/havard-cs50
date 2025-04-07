@@ -26,7 +26,7 @@ As humans, data is every thing we see, hear, smell or feel. For computers data i
 #### How do computers manipulate and understand data
 Videogames, images, videos, mp3 files, video editing softwares, image editing softwares. ALl of this things are just BITS (zeros and ones).    
 
-[a](../assets/compiling-assembly-code-to-machine-code.png)
+![explanation](../assets/compiling-assembly-code-to-machine-code.png)
 
 
 Computers **cannot** understand data.
