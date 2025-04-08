@@ -24,9 +24,13 @@ In short answer, **data**. But to fully understand why, we had better understand
 As humans, data is every thing we see, hear, smell or feel. For computers data is just an electrical signal. that's by far the best they we found to process data in computers - with electricity.
 
 #### How do computers manipulate and understand data
-Videogames, images, videos, mp3 files, video editing softwares, image editing softwares. ALl of this things are just BITS (zeros and ones).    
+We could think that videogames, images, videos, mp3 files, video editing softwares, image editing softwares, etc. are information, all of this things are just bits (zeros and ones). That is, data.
 
+- "But when I open an image I don't see zeros and ones, I see an image." -> Underneath the hood, that image are a bunch of bits.
+- "But when I write a program in C language, I don't write it in zeros and ones." -> To run every single C program you have to compile it. The compiler transform your C instructions into bits.
+  
 ![explanation](../assets/compiling-assembly-code-to-machine-code.png)
+
 
 
 Computers **cannot** understand data.
