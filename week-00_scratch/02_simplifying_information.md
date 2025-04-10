@@ -19,21 +19,30 @@ Given that, I can think about our brains as a powerful hardware, which runs a ki
 
 
 ## 🖥️ Do computers receive raw data or processed data (information)? 
-In short answer, **data**. But to fully understand why, we had better understand what's considered "data" for computers. 
+In short answer, **data**. But to fully understand why, we had better understand what's considered "data" for computers and what are bits. 
 
-#### Where can we find data in our computers? 
-Videogames, images, videos, mp3 files, video editing softwares, image editing softwares, etc. all of this things are just bits (zeros and ones), that is, data.
+### 🧮 What is a bit?
+A **bit** is short for **binary digit**.  
+- **Binary** means it can only have two possible values: `0` or `1`.  
+- **Digit** means a position that can hold a bit (0 or 1).  
 
-<!--
-#### How do computers transform those bits into content? How do computers understand data? -->
+In real-world terms, you can think of a bit like a switch — it's either **on** or **off**, **true** or **false**.
 
-#### Since every thing in our computer is just a bunch of bits, how can we actually see content instead of them?
+But with just one bit, you can only represent **two** options. So what do we do if we want more? We add more bits! Every additional bit doubles the number of possible combinations. For example: 
+1 bit → 2 combinations: 0 or 1.
+2 bits → 4 combinations: `00`, `01`, `10`, `11`
+
+
+### Why do computers use bits? 
+While our brains "storage" data in a really complext pattern, computers storage data in really simple way.   Computers cannot hear, smell, see or touch, the only way to insert inputs into a computer is through eletrcity. We do that in the most convinient way. When we want to represent ON (1 bit) we send 5volts, when we want to represent OFF (0 bit) we send 1volt.
+
+
+### Where can we find data in our computers? 
+Videogames, images (jpg, png), videos (mp4 files), mp3 files, video editing softwares, image editing softwares, etc. all of this things are just bits (zeros and ones), that is, data.
+
+#### Since every thing in our computer is just a bunch of bits, why we actually see content instead of them?
 That's true. When we open a file, like a text file (`file.txt`) we don't see zeros and ones, we see characters. When we open an image (`img.png`) we don't see zeros and ones, we see pixels. The reason of that is because we've built softwares to take that amount bunch of bits and trasnform into content. 
 
-Taking a file text as an example, we have something called ASCII (American Standard Code for Information interchange), that's just a fency name to a tool where it'll take some bits and transform into chracters.
-
-### Why do computers use bits?
-While our brains "storage" data in a really complext pattern, computers storage data in really simple way.   Computers cannot hear, smell, see or touch, the only way to insert inputs into a computer is through eletrcity. We do that in the most convinient way. When we want to represent ON (1 bit) we send 5volts, when we want to represent OFF (0 bit) we send 1volt.
 
 
 
