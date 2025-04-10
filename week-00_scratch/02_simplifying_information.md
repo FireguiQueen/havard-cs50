@@ -22,10 +22,7 @@ Given that, I can think about our brains as a powerful hardware, which runs a ki
 In short answer, **data**. But to fully understand why, we had better understand what's considered "data" for computers. 
 
 #### Where can we find data in our computers? 
-Videogames, images, videos, mp3 files, video editing softwares, image editing softwares, etc. all of this things are just bits (zeros and ones), that is, data.
-
-![010010001-removebg-preview](https://github.com/user-attachments/assets/dd7e3b20-58a9-4d54-bb8a-13d963211d5f)
-
+Videogames, images, videos, mp3 files, video editing softwares, image editing softwares, etc. all of this things are just bits (zeros and ones), that is, data. 
 
 #### How do computers manipulate and understand data
 Videogames, images, videos, mp3 files, video editing softwares, image editing softwares, etc. all of this things are just bits (zeros and ones), that is, data.
@@ -34,10 +31,6 @@ Videogames, images, videos, mp3 files, video editing softwares, image editing so
 - "But when I write a program in C language, I don't write it in zeros and ones." -> To run every single C program you have to compile it. The compiler transform your C instructions into bits.
 
   
-![010010001-modified](https://github.com/user-attachments/assets/6235bf58-6304-4338-9e85-31f40d518233)
-
-
-![010010001](https://github.com/user-attachments/assets/2723b18e-cc94-43ba-8401-bd848700f476)
 
 Computers **cannot** understand data.
 
