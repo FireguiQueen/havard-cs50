@@ -34,9 +34,7 @@ But with just one bit, you can only represent **two** options. So what do we do 
 
 
 ### Why do computers use bits?
-While our brains store data in incredibly complex patterns involving neurons and chemicals, computers are way simpler. They rely on **electricity**.
-
-Computers can’t see, hear, smell, or feel. The only way they can **receive** information is through **electrical signals**.
+While our brains store data in incredibly complex patterns involving neurons and chemicals, computers are way simpler. They rely on **electricity**. Computers can’t see, hear, smell, or feel. The only way they can **receive** information is through **electrical signals**.
 
 To represent a bit with electricity:
 - A `1` (ON) might be **5 volts**
