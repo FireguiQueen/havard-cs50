@@ -37,6 +37,8 @@ Videogames, images, videos, mp3 files, video editing softwares, image editing so
 ![010010001-modified](https://github.com/user-attachments/assets/6235bf58-6304-4338-9e85-31f40d518233)
 
 
+![010010001](https://github.com/user-attachments/assets/2723b18e-cc94-43ba-8401-bd848700f476)
+
 Computers **cannot** understand data.
 
 
