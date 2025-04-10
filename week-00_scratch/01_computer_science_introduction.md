@@ -17,10 +17,11 @@ ___________________
 Computer science is one of many branches of science. When you're studying computer science — also known as CS — you're diving into the vast body of knowledge we’ve built around computers and computation.
 
 We study and improve our understanding of computers so we can develop solutions using computational technology. The main goal is to automate the resolution of real-world problems through a structured process, which can be summarized as follows:
-1. Colect data (inputs)
-2. Process the data (using algorithms)
-3. Generate results (outputs)
-
+```
+    1. Collect data (inputs)
+    2. Process the data (using algorithms)
+    3. Generate results (outputs)
+```
 ---
 
 ![input-process-output](https://github.com/FireguiQueen/CS50/assets/98475125/f0285159-3d9c-41ba-9c06-f63f87babd8b)
@@ -35,17 +36,4 @@ Here's a simple example:
 - [You]: "He's in my apartment."
 
 From your friend's perspective, the question is an output—they're sending information out. For you, it's an input. Your brain processes the question and quickly finds the answer, which becomes your output, sent back as a response.
-
-
-It’s literally the same structure that computers use:
-```
-    Input – You receive data (the question).
-
-    Process – You think about the data.
-
-    Output – You come up with and send the answer.
-``` 
-
-
-
 
