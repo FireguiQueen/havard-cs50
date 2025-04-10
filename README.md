@@ -4,7 +4,7 @@ CS50 (Computer Science 50) is a comprehensive Computer Science course taught by 
 This repository contains my personal notes, based on my understanding of the course. Here, you'll find insights, explanations, and summaries written by me.
 
 ## 📌 Topics covered
-0. Introduction to computer science ([📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-00_scratch)
+0. Introduction to computer science [📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-00_scratch)
 1. Introdution to programming using C [📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-01_c)
 
 - Algorithms and data structures
