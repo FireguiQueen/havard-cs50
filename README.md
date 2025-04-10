@@ -5,7 +5,7 @@ This repository contains my personal notes, based on my understanding of the cou
 
 ## 📌 Topics covered
 0. Introduction to computer science (how computers work; data & information) [([📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-00_scratch)]
-1. Introdution to programming using C [[📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-01_C)]
+1. Introdution to programming using C [[📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-01_c)]
 
 - Algorithms and data structures
 - Software design principles
