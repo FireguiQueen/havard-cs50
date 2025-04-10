@@ -21,6 +21,8 @@ Given that, I can think about our brains as a powerful hardware, which runs a ki
 ## 🖥️ Do computers receive raw data or processed data (information)? 
 In short answer, **data**. But to fully understand why, we had better understand what's considered "data" for computers and what bits are. 
 
+<br> 
+
 ### What is a bit?
 A 'bit' is short for **binary digit**.  
 - **Binary** means it can only have two possible values: `0` or `1`.  
