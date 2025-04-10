@@ -33,20 +33,36 @@ But with just one bit, you can only represent **two** options. So what do we do 
 2 bits → 4 combinations: `00`, `01`, `10`, `11`
 
 
-### Why do computers use bits? 
-While our brains "storage" data in a really complext pattern, computers storage data in really simple way.   Computers cannot hear, smell, see or touch, the only way to insert inputs into a computer is through eletrcity. We do that in the most convinient way. When we want to represent ON (1 bit) we send 5volts, when we want to represent OFF (0 bit) we send 1volt.
+### Why do computers use bits?
+While our brains store data in incredibly complex patterns involving neurons and chemicals, computers are way simpler. They rely on **electricity**.
 
+Computers can’t see, hear, smell, or feel. The only way they can **receive** information is through **electrical signals**.
 
-### Where can we find data in our computers? 
-Videogames, images (jpg, png), videos (mp4 files), mp3 files, video editing softwares, image editing softwares, etc. all of this things are just bits (zeros and ones), that is, data.
+To represent a bit with electricity:
+- A `1` (ON) might be **5 volts**
+- A `0` (OFF) might be **1 volts**
+
+This binary approach is reliable, fast, and easy to build hardware for.
+
+### Where can we find bits in a computer?
+**Every digital thing** on your computer is made of bits:
+- Images (`.jpg`, `.png`)
+- Videos (`.mp4`)
+- Music (`.mp3`)
+- Text files (`.txt`)
+- Programs and software  
+➡️ All of it is just billions of `0`s and `1`s under the hood.
+
 
 #### Since every thing in our computer is just a bunch of bits, why we actually see content instead of them?
-That's true. When we open a file, like a text file (`file.txt`) we don't see zeros and ones, we see characters. When we open an image (`img.png`) we don't see zeros and ones, we see pixels. The reason of that is because we've built softwares to take that amount bunch of bits and trasnform into content. 
+That's true! We don’t see zeros and ones when we open a file.
+- When we open `file.txt`, we see **letters**.
+- When we open `img.png`, we see **pixels**.
+  
+But that’s because we’ve built **software** that interprets all that **raw data** and turns it into something **human-friendly**.
+So even though everything is just bits to the computer, what we see is the **result of processing** those bits into meaningful **information**.
 
-
-
-
-
+<!-- 
 We can try to figure a simple box, with 3 levers (switches) inside of it. Each lever can only represent two states (on/off). 
 Let's also suppose that we can switch between the states with eletrical signal. To switch to 'on' we send 1volt, to keep it 'off' we sent 0volt.
 
@@ -66,9 +82,7 @@ ON   - ON   - ON
 ```
 > Using a bit of math, we could just do 2³, and the result is eight different possbilities. 
 
-   
-
-
+   --> 
 
 
 
