@@ -19,7 +19,7 @@ Given that, I can think about our brains as a powerful hardware, which runs a ki
 
 
 ## 🖥️ Do computers receive raw data or processed data (information)? 
-In short answer, **data**. But to fully understand why, we had better understand what's considered "data" for computers and what are bits. 
+In short answer, **data**. But to fully understand why, we had better understand what's considered "data" for computers and what bits are. 
 
 ### 🧮 What is a bit?
 A **bit** is short for **binary digit**.  
@@ -53,8 +53,7 @@ This binary approach is reliable, fast, and easy to build hardware for.
 
 
 #### Since every thing in our computer is just a bunch of bits, why we actually see content instead of them?
-That's true! We don’t see zeros and ones when we open a file.
-- When we open `file.txt`, we see **letters**.
+- When we open `file.txt`, we see **characters**.
 - When we open `img.png`, we see **pixels**.
   
 But that’s because we’ve built **software** that interprets all that **raw data** and turns it into something **human-friendly**.
