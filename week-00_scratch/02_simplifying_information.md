@@ -32,9 +32,9 @@ Videogames, images, videos, mp3 files, video editing softwares, image editing so
 
 - "But when I open an image I don't see zeros and ones, I see an image." -> Underneath the hood, that image are a bunch of bits.
 - "But when I write a program in C language, I don't write it in zeros and ones." -> To run every single C program you have to compile it. The compiler transform your C instructions into bits.
-  
-![explanation](../assets/compiling-assembly-code-to-machine-code.png)
 
+  
+![010010001-modified](https://github.com/user-attachments/assets/6235bf58-6304-4338-9e85-31f40d518233)
 
 
 Computers **cannot** understand data.
