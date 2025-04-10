@@ -22,20 +22,22 @@ Given that, I can think about our brains as a powerful hardware, which runs a ki
 In short answer, **data**. But to fully understand why, we had better understand what's considered "data" for computers. 
 
 #### Where can we find data in our computers? 
-Videogames, images, videos, mp3 files, video editing softwares, image editing softwares, etc. all of this things are just bits (zeros and ones), that is, data. 
-
-#### How do computers manipulate and understand data
 Videogames, images, videos, mp3 files, video editing softwares, image editing softwares, etc. all of this things are just bits (zeros and ones), that is, data.
 
-- "But when I open an image I don't see zeros and ones, I see an image." -> Underneath the hood, that image are a bunch of bits.
-- "But when I write a program in C language, I don't write it in zeros and ones." -> To run every single C program you have to compile it. The compiler transform your C instructions into bits.
+<!--
+#### How do computers transform those bits into content? How do computers understand data? -->
 
-  
+#### Since every thing in our computer is just a bunch of bits, how can we actually see content instead of them?
+That's true. When we open a file, like a text file (`file.txt`) we don't see zeros and ones, we see characters. When we open an image (`img.png`) we don't see zeros and ones, we see pixels. The reason of that is because we've built softwares to take that amount bunch of bits and trasnform into content. 
 
-Computers **cannot** understand data.
+Taking a file text as an example, we have something called ASCII (American Standard Code for Information interchange), that's just a fency name to a tool where it'll take some bits and transform into chracters.
+
+### Why do computers use bits?
+While our brains "storage" data in a really complext pattern, computers storage data in really simple way.   Computers cannot hear, smell, see or touch, the only way to insert inputs into a computer is through eletrcity. We do that in the most convinient way. When we want to represent ON (1 bit) we send 5volts, when we want to represent OFF (0 bit) we send 1volt.
 
 
-### Computers represent data with electricity? What do you mean? 
+
+
 We can try to figure a simple box, with 3 levers (switches) inside of it. Each lever can only represent two states (on/off). 
 Let's also suppose that we can switch between the states with eletrical signal. To switch to 'on' we send 1volt, to keep it 'off' we sent 0volt.
 
@@ -58,7 +60,6 @@ ON   - ON   - ON
    
 
 
-While our brains "storage" data in a really complext pattern, computers storage data in really simple way.  
 
 
 
