@@ -21,16 +21,20 @@ Given that, I can think about our brains as a powerful hardware, which runs a ki
 ## 🖥️ Do computers receive raw data or processed data (information)? 
 In short answer, **data**. But to fully understand why, we had better understand what's considered "data" for computers and what bits are. 
 
-### 🧮 What is a bit?
-A **bit** is short for **binary digit**.  
+### What is a bit?
+A 'bit' is short for **binary digit**.  
 - **Binary** means it can only have two possible values: `0` or `1`.  
-- **Digit** means a position that can hold a bit (0 or 1).  
+- **Digit** refers to a position that holds a bit — either `0` or `1`.
+
+> One bit equals one digit (like `0` or `1`).  
+> Two bits equal two digits (like `00`, `01`, etc.).
 
 In real-world terms, you can think of a bit like a switch — it's either **on** or **off**, **true** or **false**.
 
-But with just one bit, you can only represent **two** options. So what do we do if we want more? We add more bits! Every additional bit doubles the number of possible combinations. For example: 
-- 1 bit → 2 combinations: 0 or 1.
-- 2 bits → 4 combinations: `00`, `01`, `10`, `11`
+But with just one bit, you can only represent **two** options. To represent more options, we add more bits! 
+- 1 bit → 2 combinations: `0` or `1`  
+- 2 bits → 4 combinations: `00`, `01`, `10`, `11`  
+- 3 bits → 8 combinations: `000`, `001`, ..., `111`
 
 
 ### Why do computers use bits?
