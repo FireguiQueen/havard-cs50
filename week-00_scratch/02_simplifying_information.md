@@ -21,10 +21,14 @@ Given that, I can think about our brains as a powerful hardware, which runs a ki
 ## 🖥️ Do computers receive raw data or processed data (information)? 
 In short answer, **data**. But to fully understand why, we had better understand what's considered "data" for computers. 
 
-As humans, data is every thing we see, hear, smell or feel. For computers data is just an electrical signal. that's by far the best they we found to process data in computers - with electricity.
+#### Where can we find data in our computers? 
+Videogames, images, videos, mp3 files, video editing softwares, image editing softwares, etc. all of this things are just bits (zeros and ones), that is, data.
+
+![010010001-removebg-preview](https://github.com/user-attachments/assets/dd7e3b20-58a9-4d54-bb8a-13d963211d5f)
+
 
 #### How do computers manipulate and understand data
-We could think that videogames, images, videos, mp3 files, video editing softwares, image editing softwares, etc. are information, all of this things are just bits (zeros and ones). That is, data.
+Videogames, images, videos, mp3 files, video editing softwares, image editing softwares, etc. all of this things are just bits (zeros and ones), that is, data.
 
 - "But when I open an image I don't see zeros and ones, I see an image." -> Underneath the hood, that image are a bunch of bits.
 - "But when I write a program in C language, I don't write it in zeros and ones." -> To run every single C program you have to compile it. The compiler transform your C instructions into bits.
