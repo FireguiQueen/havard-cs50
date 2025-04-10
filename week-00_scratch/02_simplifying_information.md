@@ -34,8 +34,7 @@ In real-world terms, you can think of a bit like a switch — it's either **on**
 But with just one bit, you can only represent **two** options. To represent more options, we add more bits! 
 - 1 bit → 2 combinations: `0` or `1`  
 - 2 bits → 4 combinations: `00`, `01`, `10`, `11`  
-- 3 bits → 8 combinations: `000`, `001`, ..., `111`
-
+- 3 bits → 8 combinations: `000`, `001`, `011`, `111`, `010`, `100`, `110`, `101`
 
 ### Why do computers use bits?
 While our brains store data in incredibly complex patterns involving neurons and chemicals, computers are way simpler. They rely on **electricity**. Computers can’t see, hear, smell, or feel. The only way they can **receive** information is through electrical signals.
