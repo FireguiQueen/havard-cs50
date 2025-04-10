@@ -29,8 +29,8 @@ A **bit** is short for **binary digit**.
 In real-world terms, you can think of a bit like a switch — it's either **on** or **off**, **true** or **false**.
 
 But with just one bit, you can only represent **two** options. So what do we do if we want more? We add more bits! Every additional bit doubles the number of possible combinations. For example: 
-1 bit → 2 combinations: 0 or 1.
-2 bits → 4 combinations: `00`, `01`, `10`, `11`
+- 1 bit → 2 combinations: 0 or 1.
+- 2 bits → 4 combinations: `00`, `01`, `10`, `11`
 
 
 ### Why do computers use bits?
