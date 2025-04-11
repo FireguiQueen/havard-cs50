@@ -1,4 +1,6 @@
-#### Recommended reading 
+#### Recommended reading: 
+- [Computer Science: introduction](https://github.com/FireguiQueen/CS50/blob/main/week-00_scratch/01_computer_science_introduction.md)
+- [Computer Science: data and information](https://github.com/FireguiQueen/CS50/blob/main/week-00_scratch/02_simplifying_information.md)
 
 ________________________________________________
 
