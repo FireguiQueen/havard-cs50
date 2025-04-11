@@ -1,8 +1,13 @@
 #### Recommended reading: [Computer Science: introduction](https://github.com/FireguiQueen/CS50/blob/main/week-00_scratch/01_computer_science_introduction.md); [Computer Science: data and information](https://github.com/FireguiQueen/CS50/blob/main/week-00_scratch/02_simplifying_information.md)
 
-________________________________________________
+---
 
-# Bits: o surgimento dos caracteres
+# Bits: ASCII
+
+# Bits: RGB 
+
+
+<!-- 
 Antigamente a principal função dos computadores era computar, ou seja, atuar como calculadoras. Eles foram originalmente criados para facilitar cálculos matemáticos demorados ou complexos para os seres humanos.
 Contudo, nos dias de hoje, os computadores desempenham uma vasta gama de funções. As atividades que realizamos neles, como assistir a vídeos, jogar e realizar transações bancárias, são muito mais complexas do que simples cálculos. Naturalmente, todas essas ações envolvem interações com caracteres, que são essenciais nas interfaces dos softwares. E isso não se aplica apenas aos utilizadores finais, mas também aos desenvolvedores, que necessitam manipular caracteres de várias maneiras ao criar os seus softwares.
 
@@ -124,3 +129,5 @@ Da explicação acima, compreendemos que a criação de uma cor requer 24 bits (
 # Formatos de arquivo
 O formato do arquivo é essencial para informar ao computador como ele deve interpretar esses bits. Por exemplo, ao lidar com um arquivo .TXT, nosso objetivo é visualizar texto, o que requer a tradução dos bits em caracteres legíveis (usamos o sistema ASCII para isso). No caso dos arquivos .JPG, nosso objetivo é visualizar imagens, o que implica na conversão dos bits em pixels coloridos.
 Músicas, vídeos, planilhas e muito mais também têm sua origem nos mesmos zeros e uns. Em um arquivo .MP3, por exemplo, os bits são traduzidos em notas musicais que compõem melodias envolventes. Em arquivos de vídeo como o .MP4, os bits se transformam em sequências de quadros em movimento, criando a ilusão de cenas dinâmicas.
+
+-->
